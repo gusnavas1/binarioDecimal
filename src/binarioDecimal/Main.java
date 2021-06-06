@@ -9,7 +9,7 @@ class Main {
     Scanner teclado= new Scanner(System.in);
     System.out.println("Bienvenido ");
     System.out.println("De la Siguiente Lista");
-    System.out.println("Futbol (F), Basquet(B), Tenis (T), Ping pong(P), Natacion(N), Montañismos (M) , WaterPolo(W)");
+    System.out.println("Futbol (F), Basquet(B), Tenis (T), Ping pong(P), Natacion(N), Senderismo(S), Montañismos (M) , WaterPolo(W)");
     System.out.println("Ingrese el codigo para el deporte seleccioando, por ejemplo: TBN");
     System.out.println("Ingrese los codigos: ");
     frase=teclado.nextLine();
